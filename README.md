@@ -3,7 +3,7 @@
 
 # Simple Linear Regression Model for Salary Prediction
 
-This aims to implements a **Simple Linear Regression** model to predict an employee's salary based on their years of experience. The goal of the project is to develop a model from scratch using core Python libraries such as **Numpy**, **Pandas**, and **Matplotlib**. It provides an introduction to machine learning by showcasing the linear regression technique, gradient descent optimization, and how to visualize results.
+This aims to implement a **Simple Linear Regression** model to predict an employee's salary based on their years of experience. The goal of the project is to develop a model from scratch using core Python libraries such as **Numpy**, **Pandas**, and **Matplotlib**. It provides an introduction to machine learning by showcasing the linear regression technique, gradient descent optimization, and how to visualize results.
 
 ## Problem Statement
 
